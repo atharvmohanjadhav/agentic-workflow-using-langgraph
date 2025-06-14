@@ -1,4 +1,4 @@
-#  Agentic Workflow with LangGraph + Groq LLaMA 3
+#  Agentic Workflow with LangGraph 
 
 ## Overview
 This project uses LangGraph to implement an agentic workflow that:
