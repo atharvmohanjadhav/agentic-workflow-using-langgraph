@@ -1,0 +1,5 @@
+groq
+langgraph
+streamlit
+wikipedia
+python-dotenv
