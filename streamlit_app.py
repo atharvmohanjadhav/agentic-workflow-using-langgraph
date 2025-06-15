@@ -2,7 +2,6 @@ import streamlit as st
 from app.langgraph_runner import build_workflow
 
 st.title("Agentic Workflow Using LangGraph")
-
 user_input = st.text_area("Enter your query")
 
 if st.button("Run Workflow"):
