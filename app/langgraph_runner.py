@@ -13,7 +13,6 @@ class WorkflowState(TypedDict):
     feedback: str
     summary: str
 
-
 def build_workflow():
     builder = StateGraph(state_schema=WorkflowState)
 
