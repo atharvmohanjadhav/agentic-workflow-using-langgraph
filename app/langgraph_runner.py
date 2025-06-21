@@ -5,7 +5,6 @@ from app.agents.reflection_agent import reflect_on_results
 from app.agents.summary_agent import summarize_results
 from typing import TypedDict, List
 
-
 class WorkflowState(TypedDict):
     input: str
     tasks: List[str]
